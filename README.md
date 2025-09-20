@@ -1,1 +1,3 @@
-# Bronze Inscription Restoration
+# 🐦 BIRD
+
+> 《商頌·玄鳥》：天命玄鳥，降而生商...
