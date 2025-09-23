@@ -1,7 +1,8 @@
 # BIRD
 
 > 《詩·商頌·玄鳥》：天命玄鳥，降而生商...
-
+Heaven commissioned the swallow, to descend and give birth to Shang...(translated by James Legge)
+> 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Model%20Card-SikuRoBERTa_Bronze-yellow)](https://huggingface.co/wjhuah/SikuRoBERTa_Bronze)
 
 ---
