@@ -9,6 +9,25 @@
 
 ---
 
+## Data
+
+BIRD consists of encoded bronze inscription texts and paleographic resources
+supporting both restoration and dating.
+
+- **Restoration (MLM)** — `data/tapt_*.txt`  
+  Plain inscription text used for masked language modeling.  
+  *Example:* 唯十又九年，四月既朢辛卯，王在周康卲宮，各于大室，即位……
+
+- **Dating** — `data/dating.csv`  
+  Texts annotated with dynasty and period labels.  
+  *Example:* 春秋｜晚期｜秦王俾命競墉，王之定，救秦戎。
+
+- **Glyph Net (GN)** — `data/*.edge`  
+  Allograph relations encoding glyph variants.  
+  *Example:* 丌 → 其
+  
+---
+
 ## Overview
 
 Bronze inscriptions from early China are often fragmentary and difficult to date.
