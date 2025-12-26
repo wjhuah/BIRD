@@ -8,16 +8,6 @@
 [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Dataset-BIRD-blue)](https://huggingface.co/datasets/wjhuah/BIRD)
 
 ---
-# BIRD: Bronze Inscription Restoration and Dating  
-
-> 《詩·商頌·玄鳥》：天命玄鳥，降而生商  
-> *“Heaven commissioned the swallow, to descend and give birth to Shang.”*  
-> — translated by James Legge
-
-[![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-SikuRoBERTa_Bronze-yellow)](https://huggingface.co/wjhuah/SikuRoBERTa_Bronze)
-[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Dataset-BIRD-blue)](https://huggingface.co/datasets/wjhuah/BIRD)
-
----
 
 ## Overview
 
@@ -33,7 +23,7 @@ allographs. Experiments show consistent gains in both restoration and
 chronological dating.
 
 <p align="center">
-  <img src="figure/intro.pdf" width="85%">
+  <img src="figure/intro.png" width="85%">
 </p>
 
 > **From epigrapher to MLM.**  
@@ -42,7 +32,7 @@ chronological dating.
 > modeling setup.
 
 <p align="center">
-  <img src="figure/pipeline.pdf" width="90%">
+  <img src="figure/pipeline.png" width="90%">
 </p>
 
 > **BIRD pipeline.**  
