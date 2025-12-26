@@ -33,7 +33,7 @@ allographs. Experiments show consistent gains in both restoration and
 chronological dating.
 
 <p align="center">
-  <img src="figure/intro.png" width="85%">
+  <img src="figure/intro.pdf" width="85%">
 </p>
 
 > **From epigrapher to MLM.**  
@@ -42,7 +42,7 @@ chronological dating.
 > modeling setup.
 
 <p align="center">
-  <img src="figure/pipeline.png" width="90%">
+  <img src="figure/pipeline.pdf" width="90%">
 </p>
 
 > **BIRD pipeline.**  
