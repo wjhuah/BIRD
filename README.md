@@ -14,7 +14,7 @@
 BIRD consists of encoded bronze inscription texts and paleographic resources
 supporting both restoration and dating.
 
-- **Restoration (MLM)** — `data/tapt_*.txt`  
+- **Restoration** — `data/tapt_*.txt`  
   Plain inscription text used for masked language modeling.  
   *Example:* 唯十又九年，四月既朢辛卯，王在周康卲宮，各于大室，即位……
 
@@ -22,7 +22,7 @@ supporting both restoration and dating.
   Texts annotated with dynasty and period labels.  
   *Example:* 春秋｜晚期｜秦王俾命競墉，王之定，救秦戎。
 
-- **Glyph Net (GN)** — `data/*.edge`  
+- **Glyph Net** — `data/*.edge`  
   Allograph relations encoding glyph variants.  
   *Example:* 丌 → 其
   
@@ -63,7 +63,7 @@ chronological dating.
 ```text
 .
 ├── main.py            # experimental pipeline
-├── data/              # input data and glyphnet
+├── data/              # input data and glyph net
 ├── results/           # model evaluation outputs
 ├── errors/            # mis-predictions
 ├── UNK/               # unknown glyphs
