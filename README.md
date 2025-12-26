@@ -14,6 +14,10 @@
 BIRD consists of encoded bronze inscription texts and paleographic resources
 supporting both restoration and dating.
 
+- **Domain corpus** — `data/dapt.txt`  
+  Pre-Qin texts for domain-adaptive pretraining (by linguistic register).  
+  *Example:* 絕智棄辯，民利百倍。絕巧棄利，盜賊亡有。絕偽棄慮，民復季子。
+  
 - **Restoration** — `data/tapt_*.txt`  
   Plain inscription text used for masked language modeling.  
   *Example:* 唯十又九年，四月既朢辛卯，王在周康卲宮，各于大室，即位……
@@ -40,15 +44,6 @@ problem and integrates domain-adaptive pretraining (DAPT), task-adaptive
 pretraining (TAPT), and a **Glyph Net (GN)** that links graphemes with their
 allographs. Experiments show consistent gains in both restoration and
 chronological dating.
-
-<p align="center">
-  <img src="figure/intro.png" width="85%">
-</p>
-
-> **From epigrapher to MLM.**  
-> The expert workflow of identifying damaged fragments, inferring from parallel
-> expressions, and proposing restorations naturally mirrors a masked language
-> modeling setup.
 
 <p align="center">
   <img src="figure/pipeline.png" width="90%">
