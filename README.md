@@ -9,6 +9,23 @@
 
 ---
 
+## Overview
+
+Bronze inscriptions from early China are often fragmentary and difficult to date.
+We introduce **BIRD** (**B**ronze **I**nscription **R**estoration and **D**ating),
+a fully encoded dataset grounded in standard scholarly transcriptions and
+chronological labels.
+
+BIRD further proposes an **allograph-aware masked language modeling framework**
+that integrates:
+- domain-adaptive pretraining (DAPT),
+- task-adaptive pretraining (TAPT),
+- and a Glyph Net (GN) linking graphemes and allographs.
+
+Experiments show that GN improves character restoration, while glyph-biased sampling yields consistent gains in chronological dating.
+
+---
+
 ## Citation
 
 If you find this useful, please cite our paper:
