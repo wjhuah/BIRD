@@ -68,6 +68,14 @@ chronological dating.
 ````
 ---
 
+## Paleographical Reference
+
+[Document Link](https://docs.google.com/document/d/11RvdpOuW2UnSzYNukp-jEOZJsN5NNkzX/edit?usp=sharing&ouid=110717833428221317700&rtpof=true&sd=true)
+
+*Last update: Jun 29, 2026*
+
+---
+
 ## Citation
 
 If you find this useful, please cite our paper:
@@ -81,10 +89,4 @@ If you find this useful, please cite our paper:
   publisher = {Association for Computational Linguistics}
 }
 ```
-
-## Paleographical Reference
-
-[Document Link](https://docs.google.com/document/d/11RvdpOuW2UnSzYNukp-jEOZJsN5NNkzX/edit?usp=sharing&ouid=110717833428221317700&rtpof=true&sd=true)
-
-*Last update: Jun 29, 2026*
 
