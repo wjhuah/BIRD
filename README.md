@@ -53,6 +53,8 @@ chronological dating.
 > DAPT and TAPT are combined with a Glyph Net to inject allograph-level structure
 > into a BERT/RoBERTa backbone, supporting both restoration and dating.
 
+---
+
 ## Repository Structure
 
 ```text
