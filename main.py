@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import os, random, math, json, shutil
 import numpy as np, pandas as pd
 import torch, torch.nn as nn, torch.nn.functional as F
