@@ -4,7 +4,7 @@
 > *“Heaven commissioned the swallow, to descend and give birth to Shang.”*  
 > — translated by James Legge
 
-[![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-SikuRoBERTa_Bronze-yellow)](https://huggingface.co/wjhuah/SikuRoBERTa_Bronze)
+[![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-SikuRoBERTa_BIRD-yellow)](https://huggingface.co/wjhuah/BIRD)
 [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Dataset-BIRD-blue)](https://huggingface.co/datasets/wjhuah/BIRD)
 
 ---
