@@ -3,8 +3,9 @@
 > 《詩·商頌·玄鳥》：天命玄鳥，降而生商  
 > *“Heaven commissioned the swallow, to descend and give birth to Shang.”*  
 
-[![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-SikuRoBERTa_BIRD-yellow)](https://huggingface.co/wjhuah/BIRD)
-[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Dataset-BIRD-blue)](https://huggingface.co/datasets/wjhuah/BIRD)
+[![Paper](https://img.shields.io/badge/Paper-EMNLP%202025-4B6584?style=flat-square)](https://aclanthology.org/2025.emnlp-main.1073/)
+[![Model](https://img.shields.io/badge/Model-BIRD-FFD21E?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/wjhuah/BIRD)
+[![Dataset](https://img.shields.io/badge/Dataset-BIRD-0F9D8E?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/wjhuah/BIRD)
 
 ---
 
